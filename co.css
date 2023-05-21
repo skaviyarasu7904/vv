@@ -1,0 +1,56 @@
+.sec{
+    background: rgb(6, 15, 99);
+    height: 100px;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec h1{
+    width: 600px;
+    text-align: center;
+    margin: auto auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    border: 5px solid rgb(240, 6, 209);
+    width: 50%;
+    height:400px;
+    margin: auto auto;
+}
+.sec1 h1{
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    margin: auto auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+  
+}
+
+.sec1{
+    background: rgb(13, 32, 136);
+    height: 100px;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    min-width: 700px;
+    max-width: 750px;
+}
